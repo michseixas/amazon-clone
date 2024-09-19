@@ -245,3 +245,7 @@ body{
     background: white;
     cursor: pointer;
 }
+
+.product-footer{
+    margin-top: 100px;
+}
